@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:05.156081
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:20
 #+TITLE: 金光明經文句記
 #+PROPERTY: CBETA_ID T39n1786
 #+PROPERTY: ID KR6i0307
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 39, No. 1786
 #+PROPERTY: VOL 39
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0307_T_000-0083b>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0307_T_006-0149c> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 第六上金光明經文句記卷第六(上)¶
+金光明經文句記卷第六(上)¶
 ¶
 宋四明沙門知禮述¶
 
@@ -493,8 +492,7 @@
 金光明經文句記卷第六(上)¶
 ¶
 ¶
-
- 第六下金光明經文句記卷第六(下)¶
+金光明經文句記卷第六(下)¶
 ¶
 宋四明沙門知禮述¶
 
@@ -953,4 +951,4 @@
 亦難矣。予雖不敏。忝久親講授。遂纂集¶
 舊聞繫諸卷末。亦冀覽者豈貽續貂之譏¶
 云。¶
-金光明經文句記卷第六(下)
+金光明經文句記卷第六下(下)
