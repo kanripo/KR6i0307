@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:04.914707
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:20
 #+TITLE: 金光明經文句記
 #+PROPERTY: CBETA_ID T39n1786
 #+PROPERTY: ID KR6i0307
